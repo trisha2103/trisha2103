@@ -1,14 +1,75 @@
-<h1 align="center">Hi 👋, I'm Trisha</h1>
-<h3 align="center">Data Analytics | Data Science | AI Enthusiast</h3>
+<h1 align="center">Hi there, I'm Trisha Veronica 👋</h1>
 
-- 🌱 I’m currently learning **Databricks, Generative AI**
-
-- 📫 How to reach me **trishaa0321@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/trisha veronica m y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trisha veronica m y" height="30" width="40" /></a>
+<p align="center">
+  <b>Data & AI Enthusiast | Business Analytics Grad Student | Turning Data into Impact</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/trisha-veronica-m-y-0b258a271" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:trishaa0321@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+🎓 Master’s student in **Business Analytics** at UMass Boston  
+💻 Background in **Computer Science** & passionate about **Data Science**, **AI**, and **Machine Learning**  
+🧠 Skilled in transforming data into actionable insights through modeling, analytics, and visualization  
+🚀 Focused on building intelligent solutions using Python, SQL, and cutting-edge AI tools
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=flat&logo=databricks&logoColor=white"/>
+</p>
+
+---
+
+### 📂 Projects
+
+- 🧠 **Peedict AI Care** – AI-based health symptom prediction  
+- 📊 **Optimizing Airline Ticket Purchases** – Tableau dashboards with predictive insights  
+- 💹 **Stock Market Analysis** – Web scraping + ML model optimization  
+- 💼 **Salary Prediction** – Regression modeling using R  
+- ✋ **Sign Language Detection System** – Real-time gesture recognition with CNN  
+- 🦴 **Bone Fracture Detection** – Deep learning model evaluation and deployment  
+- 🌐 **PG Life Web App** – Full-stack rental platform built using PHP and MySQL  
+
+---
+
+### 📜 Certifications & Achievements
+
+- 🧠 **Databricks Fundamentals** & **Generative AI Accreditation**  
+- 🧠 **Generative AI with LangChain & Hugging Face – Udemy**  
+- 📈 **Microsoft Power BI Data Analyst – ICT Academy**  
+- ☁️ **Azure Data Fundamentals – Microsoft**  
+- 🎓 **Google Data Analytics – Google**  
+- 🏥 **ML for Healthcare – Stanford Online**
+
+---
+
+### 📫 Get in Touch
+
+📩 trishaa0321@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/trisha-veronica-m-y-0b258a271)
+
+---
+
+⭐ Feel free to check out my repositories and connect with me on LinkedIn!
