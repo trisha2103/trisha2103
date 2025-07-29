@@ -44,7 +44,7 @@
 
 ### 📜 Certifications & Achievements
 
-- 🧠 **Databricks Fundamentals** & **Generative AI Accreditation**  
+- 🧠 **Databricks Fundamentals** & **Generative AI Accreditation - Databricks**  
 - 🤖 **Generative AI with LangChain & Hugging Face – Udemy**  
 - 📊 **Microsoft Power BI Data Analyst – ICT Academy**  
 - ☁️ **Azure Data Fundamentals – Microsoft**  
