@@ -18,9 +18,9 @@
 ### 👩‍💻 About Me
 
 🎓 Master’s student in **Business Analytics** at UMass Boston  
-💻 Background in **Computer Science** & passionate about **Data Science**, **AI**, and **Machine Learning**  
-🧠 Skilled in transforming data into actionable insights through modeling, analytics, and visualization  
-🚀 Focused on building intelligent solutions using Python, SQL, and cutting-edge AI tools
+💻 Background in **Computer Science** & passionate about **Data Science**, **AI**, and **Analytics**  
+🧠 Skilled in transforming data into actionable insights through modeling, analysis, and visualization  
+🚀 Focused on building intelligent, data-driven solutions using modern tools and techniques
 
 ---
 
@@ -42,23 +42,11 @@
 
 ---
 
-### 📂 Projects
-
-- 🧠 **Peedict AI Care** – AI-based health symptom prediction  
-- 📊 **Optimizing Airline Ticket Purchases** – Tableau dashboards with predictive insights  
-- 💹 **Stock Market Analysis** – Web scraping + ML model optimization  
-- 💼 **Salary Prediction** – Regression modeling using R  
-- ✋ **Sign Language Detection System** – Real-time gesture recognition with CNN  
-- 🦴 **Bone Fracture Detection** – Deep learning model evaluation and deployment  
-- 🌐 **PG Life Web App** – Full-stack rental platform built using PHP and MySQL  
-
----
-
 ### 📜 Certifications & Achievements
 
 - 🧠 **Databricks Fundamentals** & **Generative AI Accreditation**  
-- 🧠 **Generative AI with LangChain & Hugging Face – Udemy**  
-- 📈 **Microsoft Power BI Data Analyst – ICT Academy**  
+- 🤖 **Generative AI with LangChain & Hugging Face – Udemy**  
+- 📊 **Microsoft Power BI Data Analyst – ICT Academy**  
 - ☁️ **Azure Data Fundamentals – Microsoft**  
 - 🎓 **Google Data Analytics – Google**  
 - 🏥 **ML for Healthcare – Stanford Online**
@@ -72,4 +60,4 @@
 
 ---
 
-⭐ Feel free to check out my repositories and connect with me on LinkedIn!
+⭐ Feel free to explore my repositories and connect with me!
