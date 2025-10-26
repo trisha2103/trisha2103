@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Trisha Veronica 👋</h1>
+<h1 align="center">Hi there, I'm Trisha Yuvaraj 👋</h1>
 
 <p align="center">
   <b>Data & AI Enthusiast | Business Analytics Grad Student | Turning Data into Impact</b>
