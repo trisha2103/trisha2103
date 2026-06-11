@@ -12,9 +12,9 @@
 
 ## 👩‍💻 About Me
 
-MS Business Analytics graduate at **UMass Boston** with a background in Computer Science. I love building end-to-end data solutions — from raw SQL to trained ML models to dashboards that drive real decisions. My work spans analytics engineering, machine learning, and healthcare AI.
+MS Business Analytics student at **UMass Boston** with a background in Computer Science. I love building end-to-end data solutions, from raw SQL to trained ML models to dashboards that drive real decisions. My work spans analytics engineering, machine learning, and healthcare AI. I'm passionate about making data accessible and impactful, whether that's through a Streamlit app, a BigQuery pipeline, or an executive dashboard. Always learning, always building.
 
-📍 Boston, MA &nbsp;|&nbsp; 🔭 Currently exploring LLMs, dbt & MLflow
+📍 Boston, MA &nbsp;&nbsp; 🔭 Currently exploring LLMs, dbt and MLflow
 
 ---
 
@@ -22,20 +22,19 @@ MS Business Analytics graduate at **UMass Boston** with a background in Computer
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-EF3B24?style=for-the-badge&logo=databricks&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,aws,azure,docker,postgres,git,jupyter,vscode&perline=6" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black&labelColor=FFD21F" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Databricks-EF3B24?style=flat-square&logo=databricks&logoColor=white" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="28"/>
 
 </div>
 
@@ -45,9 +44,11 @@ MS Business Analytics graduate at **UMass Boston** with a background in Computer
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=trisha2103&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trisha2103&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0" />
+[![Trisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=trisha2103&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&include_all_commits=true&count_private=true)](https://github.com/trisha2103)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=trisha2103&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8)](https://github.com/trisha2103)
+
+[![Trisha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=trisha2103&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff)](https://github.com/trisha2103)
 
 </div>
 
