@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-MS Business Analytics student at **UMass Boston** with a background in Computer Science. I love building end-to-end data solutions — from raw SQL to trained ML models to dashboards that drive real decisions. My work spans analytics engineering, machine learning, and healthcare AI.
+MS Business Analytics graduate at **UMass Boston** with a background in Computer Science. I love building end-to-end data solutions — from raw SQL to trained ML models to dashboards that drive real decisions. My work spans analytics engineering, machine learning, and healthcare AI.
 
 📍 Boston, MA &nbsp;|&nbsp; 🔭 Currently exploring LLMs, dbt & MLflow
 
